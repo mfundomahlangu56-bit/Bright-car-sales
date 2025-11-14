@@ -15,5 +15,10 @@ Transaction Id - unique identifier for each sale
 - Analyze daily sales performance
 - Identify revenue trends by day, model and vehicle
 -  Understand customer demand across makes and models
-  
+# Tools
+- Miro
+- Gantt chart
+- Snowflake
+- 
+-snowflake
 
