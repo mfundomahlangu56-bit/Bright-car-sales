@@ -14,7 +14,6 @@ Transaction Id - unique identifier for each sale
 # Objectives of the Dateset
 - Analyze daily sales performance
 - Identify revenue trends by day, model and vehicle
-- Understand customer demand across makes and models
+-  Understand customer demand across makes and models
   
-- 
 
