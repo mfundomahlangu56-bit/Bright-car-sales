@@ -19,6 +19,6 @@ Transaction Id - unique identifier for each sale
 - Miro
 - Gantt chart
 - Snowflake
-- 
--snowflake
+- Microsoft Excel
+- Power point
 
